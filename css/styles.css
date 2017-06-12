@@ -45,7 +45,7 @@ h3 {
   width: 200px;
   height: 200px;
   display: flex;
-  /*justify-content: center;*/
+  justify-content: center;*/
 }
 .pip {
   background-color: black;
@@ -81,7 +81,7 @@ h3 {
 }
 
 
-/*fourth yo*/
+fourth yo
 .fourth-face {
   justify-content: space-between;
 }
